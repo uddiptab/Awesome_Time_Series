@@ -13,5 +13,12 @@ This Repo contains various works, that indicate the importance of Time-Series da
   
   
 # Introduction
-  - [Time Series Modelling!](https://medium.com/@ATavgen/time-series-modelling-a9bf4f467687) is a great introductory article to start 
-    the journey.
+  - [Time Series Modelling](https://medium.com/@ATavgen/time-series-modelling-a9bf4f467687) is a great introductory article to start 
+    the journey. Avery good introduction of Time-Series analysis is presented here. This article helps to have a clear understanding of
+    the need of Time-Series analysis.
+  - [This Beautiful article](https://www.linkedin.com/pulse/everything-time-series-analysis-components-data-saranya-anandh) introduces
+    component of Time-Series modelling like seasonal effect, irregularity in data, trend analysis to the readers. It also talkks about
+    goals, needs of Time-Series data to a deeper extent.
+
+# Tutorials (in Python)
+  - [A comprehensive beginner’s guide to create a Time Series Forecast(https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/)
