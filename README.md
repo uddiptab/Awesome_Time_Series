@@ -13,5 +13,5 @@ This Repo contains various works, that indicate the importance of Time-Series da
   
   
 # Introduction
-    - [Time Series Modelling!](https://medium.com/@ATavgen/time-series-modelling-a9bf4f467687) is a great introductory article to start 
+  - [Time Series Modelling!](https://medium.com/@ATavgen/time-series-modelling-a9bf4f467687) is a great introductory article to start 
     the journey.
