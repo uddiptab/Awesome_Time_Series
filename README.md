@@ -21,4 +21,5 @@ This Repo contains various works, that indicate the importance of Time-Series da
     goals, needs of Time-Series data to a deeper extent.
 
 # Tutorials (in Python)
-  - [A comprehensive beginner’s guide to create a Time Series Forecast(https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/)
+  - [A comprehensive beginner’s guide to create a Time Series Forecast](https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/) is a very good place to kickstart one's first Time-Series project. This article gets into the useful analysises
+    of Time-Series data, in a lucid manner.
