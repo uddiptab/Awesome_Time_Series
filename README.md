@@ -24,14 +24,18 @@ This Repo contains various works, that indicate the importance of Time-Series da
   - [A comprehensive beginner’s guide to create a Time Series Forecast](https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/) is a very good place to kickstart one's first Time-Series project. This article gets into the useful analysises
     of Time-Series data, in a lucid manner.
   - [7 methods to perform Time-Series Analysis](https://www.analyticsvidhya.com/blog/2018/02/time-series-forecasting-methods/) is another
-    good introductory material on Time-Series. Here, the components of Time-Series data like sSimple-Average, Moving-Average, ARIMA etc. 
+    good introductory material on Time-Series. Here, the components of Time-Series data like Simple-Average, Moving-Average, ARIMA etc. 
     is discussed in a proper way with suitable amount of mathematical explanation and visualization.
-  - [Part 1: Time series analysis in Python](https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-9-time-series-analysis-in-python-a270cb05e0b3) is the Part 1 of Open Machine Learning course provided by Dmitriy Sergeev. This article is bit         involved. An in-depth analysis, accompannied by ready-to-use coding, is performed in this course. In short, this course brings more 
-    seriousness in the topic. 
+  - [Part 1: Time series analysis in Python](https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-9-time-series-analysis-in-python-a270cb05e0b3) is the Part 1 of Open Machine Learning course provided by Dmitriy Sergeev. This article is bit         involved. An in-depth analysis, accompannied by ready-to-use coding, is performed in this course. In short, this course brings
+    more seriousness in the topic. 
+  - [CO2 emission forecast with sessional ARIMA](https://www.kaggle.com/berhag/co2-emission-forecast-with-python-seasonal-arima)
+    does a comprehensive analysis of CO2 emission, which is nothing but a Time-series data and develops model using sessional ARIMA. 
+    The work is quite good and involved with a good amount of interactive plots to understand the significance of the analysis.
+    
+
 
 # Tutorials (in R)
   - [1. A Complete Tutorial on Time Series Modeling in R](https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/) includes in depth discussions on time series, using R. It contains a lot of examples on different usability of Time-Series       data.
-  - For more tutorial on R, refer to Next section.
+  - [This Kernel](https://www.kaggle.com/headsortails/wiki-traffic-forecast-exploration-wtf-eda) is one of the best kernels written
+    in R.
   
-# Learning with Kaggle Kernels
-Kaggle Kernels are the gold mine of practical Data Science. Anybody, familiar with kaggle, can estimate the impact of Kaggle while learning Data Science topics. Time-Series analysis is no exception. Here I have listed some 'Great' Kaggle kernels, that enriched me a lot and contains good amount of learning material.
